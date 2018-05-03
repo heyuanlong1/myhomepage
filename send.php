@@ -14,9 +14,9 @@ if(!$user){
 }
 
 
-$preorderApi = "http://api.qqqq.cn";//下单接口
-$appid = 20000; //商户appid
-$appkey = "xxx";//
+$preorderApi = "http://api.qzxczs.cn";//下单接口
+$appid = 20305; //商户appid
+$appkey = "e8199b96d5c4542593c1284fe0991305";//
 
 $money = (int)$_GET['p3_Amt'];
 $payway = 'weixin';
